@@ -1,0 +1,11 @@
+# Entry 2442
+
+**Focus:** binned-SAH BVH construction inside AetherTrace
+
+Session notes:
+
+- Traced the flow end to end and noted the key invariants.
+- Simplified the public surface; kept modules decoupled.
+- Sanity-ran locally and verified output before committing.
+
+> _All repos: JUnE OS · AetherTrace · BharatGov · BinIt · Nyaya · UniBot._
